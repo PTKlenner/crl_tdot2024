@@ -1,0 +1,10 @@
+Nmap/.ipynb_checkpoints/*
+Nmap/.env
+Nmap/*.csv
+Nmap/*.pdf
+Nmap/*.png
+Nmap/*.xml
+*.png
+traceVisualizer.pages
+ToDT.drawio
+Internet Routing.key
